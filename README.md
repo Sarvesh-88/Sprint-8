@@ -6,7 +6,7 @@ A modern, responsive Movie Discovery Single Page Application (SPA) built for the
 
 # Important Links
 
-**Live Website:** https://your-live-demo-link.netlify.app/
+**Live Website:** https://sprint-8-sgf6-psi.vercel.app/
 
 **Demo Video:** https://your-demo-video-link.com/
 
