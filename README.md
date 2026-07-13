@@ -8,7 +8,7 @@ A modern, responsive Movie Discovery Single Page Application (SPA) built for the
 
 **Live Website:** https://sprint-8-sgf6-psi.vercel.app/
 
-**Demo Video:** https://your-demo-video-link.com/
+**Demo Video:** https://drive.google.com/file/d/18mbyflWz5fy0HGNbgURthUuKEZ89qxwM/view?usp=drivesdk
 
 ---
 
