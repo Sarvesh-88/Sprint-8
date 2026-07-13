@@ -14,7 +14,7 @@ A modern, responsive Movie Discovery Single Page Application (SPA) built for the
 
 # Screenshot
 
-*Add a screenshot of your application here.*
+https://github.com/Sarvesh-88/Sprint-8/blob/main/Sprint-8-img.png
 
 ---
 
